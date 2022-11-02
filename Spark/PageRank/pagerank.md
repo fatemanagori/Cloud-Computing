@@ -94,7 +94,11 @@ hdfs dfs -ls hdfs:///mydata<br />
 $ spark-shell<br />
 
 # Test Result
+<img width="900" alt="Page Rank" src="https://user-images.githubusercontent.com/109574120/199412508-64cd516a-8ab9-4eda-8fd2-3c9ffdf48b51.jpg">
 
+# NOTE
+Make sure to shut down cluster after project completion 
 
-
+# CREDIT
+Special Thanks to **Prof Henry Chang** for providing guidence throughout this project.
 
