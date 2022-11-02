@@ -73,4 +73,28 @@ hdfs dfs -put pagerank_data.txt hdfs:///mydata<br />
 ● Running the program with Pyspark: spark-submit<br /> 
 pagerank.py hdfs:///mydata/pagerank_input.txt 1<br />
 
+<img width="900" alt="Page Rank" src="https://user-images.githubusercontent.com/109574120/199411565-2872de4d-3466-4a00-8a85-d0dcb7201df6.jpg">
+
+# Pagerank_Scala_GCP
+
+SETUP Scala Environment at GCP
+
+Create a Cloud Storage bucket<br />
+Create a Dataproc cluster<br />
+Connecting to the Master Node using Secure Shell (ssh)<br />
+install scala
+
+$ export SCALA_HOME=/usr/local/share/scala<br /> 
+$ export PATH=$PATH:$SCALA_HOME/ <br />
+1.Prepare data: vi pagerank_data.txt<br />
+2.create a directory (folder) to store the data:<br />
+hdfs dfs -mkdir hdfs:///mydata<br /> 
+hdfs dfs -put pagerank_data.txt hdfs:///mydata<br />
+hdfs dfs -ls hdfs:///mydata<br />
+$ spark-shell<br />
+
+# Test Result
+
+
+
 
