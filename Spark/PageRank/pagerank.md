@@ -55,7 +55,7 @@ The more Input Web Pages the better.<br />
 The higher PageRank of an Input Web Page the better.<br />
 
 # QUESTION
-<img width="900" alt="Page Rank" src="https://user-images.githubusercontent.com/109574120/199406460-4adb4bc8-50e6-49b8-9fd9-1c8e5be12a2c.jpg">
+<img width="900" alt="Page Rank" src="https://user-images.githubusercontent.com/109574120/199407400-6e4b3019-fa8a-46a1-8911-d44aee6a3a2c.jpg">
 
 # Pagerank_PySpark_GCP
 
