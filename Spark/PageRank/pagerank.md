@@ -99,6 +99,9 @@ $ spark-shell<br />
 # NOTE
 Make sure to shut down cluster after project completion 
 
+# DETAILED EXPLAINATION
+[PAGERANK AT GCP](https://docs.google.com/presentation/d/18RguwpSdbAsdFj_vMmsAx83WRk6wdVHeHvCqeLRBHTM/edit#slide=id.p)
+
 # CREDIT
 Special Thanks to **Prof Henry Chang** for providing guidence throughout this project.
 
