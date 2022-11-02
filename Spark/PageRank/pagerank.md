@@ -54,21 +54,23 @@ Input Web Pages' impact to the PageRank of a web page<br />
 The more Input Web Pages the better.<br />
 The higher PageRank of an Input Web Page the better.<br />
 
+# QUESTION
+<img width="900" alt="Page Rank" src="https://user-images.githubusercontent.com/109574120/199406460-4adb4bc8-50e6-49b8-9fd9-1c8e5be12a2c.jpg">
 
 # Pagerank_PySpark_GCP
 
-SET UP ENVIROMENT of PYSPARK at GCP
-● Enable the Google Cloud Compute Engine API
-● Create, Configure and Launch a Google Cloud Dataproc cluster
-● Connecting to the Master Node using Secure Shell (ssh)
+SET UP ENVIROMENT of PYSPARK at GCP<br />
+● Enable the Google Cloud Compute Engine API<br />
+● Create, Configure and Launch a Google Cloud Dataproc cluster<br />
+● Connecting to the Master Node using Secure Shell (ssh)<br />
 
 ● Prepare Data:vi pagerank_data.txt
-● Create a directory (folder) to store the data: 
-hdfs dfs -mkdir hdfs:///mydata 
-● Copy the date to HDFS: 
-hdfs dfs -put pagerank_data.txt hdfs:///mydata
-● Prepare the program: vi pagerank.py
-● Running the program with Pyspark: spark-submit 
-pagerank.py hdfs:///mydata/pagerank_input.txt 1
+● Create a directory (folder) to store the data: <br />
+hdfs dfs -mkdir hdfs:///mydata<br />
+● Copy the date to HDFS:<br /> 
+hdfs dfs -put pagerank_data.txt hdfs:///mydata<br />
+● Prepare the program: vi pagerank.py<br />
+● Running the program with Pyspark: spark-submit<br /> 
+pagerank.py hdfs:///mydata/pagerank_input.txt 1<br />
 
-<img width="304" alt="Page Rank" src="https://user-images.githubusercontent.com/109574120/199366787-a5527c9f-03da-4eed-8135-c36796e2b742.jpg">
+
