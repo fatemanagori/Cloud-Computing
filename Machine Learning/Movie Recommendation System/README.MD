@@ -85,6 +85,29 @@ Steps:
 
 **4. Run the .py file and check result at GCP**
 
+**Steps to run PySpark Program at GCP**
+
+1.Prepare Data:upload movies.csv and ratings.csv files at GCP
+
+2.Create a directory (folder) to store the data: hdfs dfs -mkdir hdfs:///mydata
+
+3.Copy the date to HDFS:
+
+ hdfs dfs -put movies.csv  hdfs:///mydata
+ 
+ hdfs dfs -put ratings.csv  hdfs:///mydata
+ 
+4.Prepare the program: vi fnn..py
+
+5.Modify the path of movies.csv and ratings.csv in program
+
+movies=hdfs:///mydata/movies.csv
+
+ratings=hdfs:///mydata/ratings.csv
+
+6.Running the program with Pyspark: spark-submit fnn.py 
+
+
 <img width="687" alt="new11 (2)" src="https://user-images.githubusercontent.com/109574120/202369805-626d4808-c3ea-4004-a67f-bcabb5e92719.png">
 
 <img width="685" alt="new13 (2)" src="https://user-images.githubusercontent.com/109574120/202369830-cb16a27c-b37b-4823-9968-71fa4fc6c2b8.png">
