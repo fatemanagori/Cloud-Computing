@@ -13,3 +13,4 @@ There are three types of recommendation systems :
 **2.Collaborative filtering:** In this technique, we use the historical data of other preferences of other users (hence the word collaborative) to make predictions about what a particular user may like. Say, many users who have watched the movie Iron Man, have also watched Avengers. Hence, our system will recommend Avengers to the user who has only watched Iron Man.
 
 **3.Hybrid model:** As the name suggests, this system is a combination of the above two models.
+<img width="476" alt="new8" src="https://user-images.githubusercontent.com/109574120/202352175-ea1a9451-181a-4e53-95ed-53cdf9d3a47f.png">
