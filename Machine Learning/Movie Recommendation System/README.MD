@@ -117,3 +117,5 @@ ratings=hdfs:///mydata/ratings.csv
 <img width="960" alt="pgrnk8 (2)" src="https://user-images.githubusercontent.com/109574120/202370791-af9debbb-8c49-404e-9e41-e468aa49de8e.png">
 
 # Detailed Presentation Below
+
+[Movie Recommendation with MLlib - Collaborative Filtering](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/Movie%20Recommendation%20with%20MLlib%20-%20Collaborative%20Filtering.pdf)
