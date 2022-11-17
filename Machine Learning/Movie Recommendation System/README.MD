@@ -42,16 +42,54 @@ Easy sharing
 Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier.
 
 **Step 3: Experiment Pyspark code (ipynb) of PySpark Collaborative Filtering with ALS**
+
 **Step 3.1: Download the Pyspark code (ipynb)**
+
 **Step 3.2: Upload the ipynb file to your Colab**
-1.First upload the data to the running space, then install pyspark in Google Colab
 
-2.Result
+<img width="487" alt="new16" src="https://user-images.githubusercontent.com/109574120/202360126-8c70ad0f-45e4-4fde-b5b8-7dd5de188c6f.png">
 
-3.Save the modified ipynb file as py format
-
-4.Save the modified ipynb file as HTML format which can be used on Step 5 of this project
 
 **Step 3.3: Experiment Pyspark code (ipynb) by modifying the ipynb file**
+
+**Result**
+
+<img width="706" alt="new17" src="https://user-images.githubusercontent.com/109574120/202360153-9f14a133-7521-476a-9756-0932a76249e7.png">
+
 **Step 3.4: Save the modified ipynb file as py format**
-**Step 3.5: Run the py file saved at Step 3.4 on GCP**
+
+<img width="488" alt="new18" src="https://user-images.githubusercontent.com/109574120/202360194-4b9051c5-8be8-4140-9861-d546d4bf3f84.png">
+
+**Step 3.5: Save the modified ipynb file as HTML format**
+
+<img width="508" alt="new19" src="https://user-images.githubusercontent.com/109574120/202360249-bf99a43a-eb79-4830-8b55-8d701cdaf151.png">
+
+
+**Step 3.6: Run the py file saved at Step 3.4 on GCP**
+
+# 1.Set up PySpark Enviroment on GCP
+
+Steps:
+
+**1. Enable the Google Cloud Compute Engine API**
+
+**2. Create, Configure and Launch a Google Cloud Dataproc cluster**
+
+<img width="960" alt="new1 (2)" src="https://user-images.githubusercontent.com/109574120/202370459-1602d624-c99f-4e0b-92d4-0510e1bfb4ab.png">
+
+
+**3. Connecting to the Master Node using Secure Shell (ssh)**
+
+<img width="540" alt="new20" src="https://user-images.githubusercontent.com/109574120/202368747-0c84ec66-a0e4-4aaa-8bf4-43afbfe923c3.png">
+
+**4. Run the .py file and check result at GCP**
+
+<img width="687" alt="new11 (2)" src="https://user-images.githubusercontent.com/109574120/202369805-626d4808-c3ea-4004-a67f-bcabb5e92719.png">
+
+<img width="685" alt="new13 (2)" src="https://user-images.githubusercontent.com/109574120/202369830-cb16a27c-b37b-4823-9968-71fa4fc6c2b8.png">
+
+**5. ShutDown Cluster**
+
+<img width="960" alt="pgrnk8 (2)" src="https://user-images.githubusercontent.com/109574120/202370791-af9debbb-8c49-404e-9e41-e468aa49de8e.png">
+
+# Detailed Presentation Below
