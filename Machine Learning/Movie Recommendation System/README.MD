@@ -21,25 +21,25 @@ There are three types of recommendation systems :
 
 **Step 1: Study [PySpark Collaborative Filtering with ALS**](https://medium.com/@jonahflateman/building-a-recommender-system-in-pyspark-using-als-18e1dd9e38e6)
 
-[PySpark Code(.ipynb)](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/fnn.py)
+[1. PySpark Code(.ipynb)](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/fnn.py)
 
-[movies.csv](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/movies.csv)
+2. [movies.csv](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/movies.csv)
 
-[ratings.csv](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/ratings.csv)
+[3. ratings.csv](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/ratings.csv)
 
-[tags.csv](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/tags.csv)
+[4. tags.csv](https://github.com/fatemanagori/Cloud-Computing/blob/main/Machine%20Learning/Movie%20Recommendation%20System/tags.csv)
 
 **Step 2: Study [Colab](https://hc.labnet.sfbu.edu/~henry/npu/classes/machine_learning/colab/slide/get_start.html)**
 
 Colab, or "Colaboratory", allows you to write and execute Python in your browser, with
 
-Zero configuration required
+##Zero configuration required
 
-Access to GPUs free of charge
+##Access to GPUs free of charge
 
-Easy sharing
+##Easy sharing
 
-Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier.
+##Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier.
 
 **Step 3: Experiment Pyspark code (ipynb) of PySpark Collaborative Filtering with ALS**
 
@@ -63,6 +63,7 @@ Whether you're a student, a data scientist or an AI researcher, Colab can make y
 **Step 3.5: Save the modified ipynb file as HTML format**
 
 <img width="508" alt="new19" src="https://user-images.githubusercontent.com/109574120/202360249-bf99a43a-eb79-4830-8b55-8d701cdaf151.png">
+
 
 
 **Step 3.6: Run the py file saved at Step 3.4 on GCP**
