@@ -58,7 +58,5 @@ GraphFrame mainly provides the following built-in algorithms:
 
 # DETAILED DOCUMENTATION
 
-[GraphFrame.pdf](https://docs.google.com/presentation/d/1wGdTpf6uo4YUb2mSgkQLmgje2Npil6NSoPlzZl-UxwI/edit#slide=id.g1bae8592526_0_152)
-
-  
+[GraphFrame.pdf](https://docs.google.com/presentation/d/1wGdTpf6uo4YUb2mSgkQLmgje2Npil6NSoPlzZl-UxwI/edit#slide=id.p)
 
